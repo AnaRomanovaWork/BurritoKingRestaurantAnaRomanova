@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="438.0" prefWidth="407.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ExportAllOrdersController">
+   <children>
+      <Label fx:id="lblWelcome" layoutX="23.0" layoutY="47.0" prefHeight="26.0" prefWidth="370.0" text="Please, specify orders, fields, file path and file name to export orders:" />
+      <TableView fx:id="tbvOrders" layoutX="21.0" layoutY="88.0" prefHeight="200.0" prefWidth="370.0" AnchorPane.leftAnchor="21.0">
+        <columns>
+          <TableColumn fx:id="tcOrderN" prefWidth="58.39996147155762" text="Order №" />
+          <TableColumn fx:id="tcTotalPrice" prefWidth="117.60003280639648" text="Total price" />
+            <TableColumn fx:id="tcFoodItem" prefWidth="104.00003051757812" text="Food Items" />
+            <TableColumn fx:id="tcOrderStatus" prefWidth="89.5999755859375" text="Order status" />
+        </columns>
+      </TableView>
+      <Label fx:id="lblOutput" layoutX="26.0" layoutY="381.0" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" prefHeight="42.0" prefWidth="362.0" wrapText="true">
+         <font>
+            <Font name="Calibri" size="10.0" />
+         </font>
+      </Label>
+      <Button fx:id="btnBack" layoutX="271.0" layoutY="14.0" mnemonicParsing="false" onAction="#backToMainMenu" text="Back to main menu" />
+      <CheckBox fx:id="cbOrderN" layoutX="23.0" layoutY="298.0" mnemonicParsing="false" text="Order№" AnchorPane.leftAnchor="23.0" AnchorPane.topAnchor="298.0">
+         <font>
+            <Font name="Calibri" size="12.0" />
+         </font>
+      </CheckBox>
+      <CheckBox fx:id="cbTotalPrice" layoutX="98.0" layoutY="298.0" mnemonicParsing="false" text="Total Price" AnchorPane.leftAnchor="98.0" AnchorPane.topAnchor="298.0">
+         <font>
+            <Font name="Calibri" size="12.0" />
+         </font>
+      </CheckBox>
+      <CheckBox fx:id="cbFoodItems" layoutX="208.0" layoutY="298.0" mnemonicParsing="false" text="Food Items" AnchorPane.leftAnchor="208.0" AnchorPane.topAnchor="298.0">
+         <font>
+            <Font name="Calibri" size="12.0" />
+         </font>
+      </CheckBox>
+      <CheckBox fx:id="cbStatus" layoutX="300.0" layoutY="298.0" mnemonicParsing="false" prefHeight="18.0" prefWidth="87.0" text="Order Status" AnchorPane.leftAnchor="300.0" AnchorPane.topAnchor="298.0">
+         <font>
+            <Font name="Calibri" size="12.0" />
+         </font>
+      </CheckBox>
+      <Button fx:id="btnExport" layoutX="132.0" layoutY="352.0" mnemonicParsing="false" onAction="#handleExportButtonAction" prefHeight="26.0" prefWidth="150.0" text="Export" />
+   </children>
+</AnchorPane>
