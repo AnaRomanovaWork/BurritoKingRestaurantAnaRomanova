@@ -1,4 +1,4 @@
-![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/5c128127-549a-4a3d-b8af-dffddfbaf706)# BurritoKingRestaurantAnaRomanova
+# BurritoKingRestaurantAnaRomanova
 Application for ordering multiple food items
 
 This project was made as an assignment for Advanced Programming Course(Java).
@@ -30,16 +30,21 @@ As username should be unique, the applicatio will show error for existing userna
 
 **Main Menu**
 
-New user cannot see any previos orders. The application only displays greatings.
+New user cannot see any active orders. The application only displays greatings.
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/41426cc9-f3a2-4810-8bae-1a993817c157)
 
-Example of orders' dashboard for user
+Example of active orders' dashboard for a user
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/c4eaf7bc-3c97-4991-9732-6f7ff1f950a1)
 
 User can edit profile data and can become premium user
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/3e5ca693-42b3-4cbb-bb39-34b963d9df75)
+
+User has following options related to orders
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/99ad3579-7df0-40e3-a0db-b3353abafb96)
+
 
 **Edit profile**
 
@@ -61,6 +66,17 @@ A VIP user has the following additional functionalities:
 * Use credits when paying for orders. The program should ask the user if he/she wants to redeem credits when checking out. If yes, ask the user to specify the number of credits to redeem. Every 100 credits can be used as one dollar. If credits are redeemed in payment, the final order price of this order should be recorded as the actual amount paid by user. In other functionalities, the final order price will be used. For example, when “Viewing all orders”, user will only see the actual price paid for that order. In “Collecting credits”, the user can collect credits for the actual paid amount.
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/3eed3f96-cbaf-49ba-9e29-802450030546)
+
+Invalid email error
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/7b8ff6bb-5c58-4120-83fe-da2d1f5d650e)
+
+Agree to recieve promotion error
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/71d48b74-0f2d-48a3-bf08-864d20f4a0e2)
+
+
+
+
 
 
 
