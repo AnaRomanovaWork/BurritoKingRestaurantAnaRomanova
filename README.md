@@ -1,4 +1,4 @@
-# BurritoKingRestaurantAnaRomanova
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/5c128127-549a-4a3d-b8af-dffddfbaf706)# BurritoKingRestaurantAnaRomanova
 Application for ordering multiple food items
 
 This project was made as an assignment for Advanced Programming Course(Java).
@@ -37,6 +37,30 @@ Example of orders' dashboard for user
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/c4eaf7bc-3c97-4991-9732-6f7ff1f950a1)
 
+User can edit profile data and can become premium user
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/3e5ca693-42b3-4cbb-bb39-34b963d9df75)
+
+**Edit profile**
+
+Change first name/last name/password, username is not changeable
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/5a63f338-7134-4591-bfa6-9ff9f35fb6c3)
+
+**Become Premium User**
+
+There are more advanced features for VIP users. When a new user is registered, the user is a non-VIP user by default. Once a non-VIP user logs in, the user has the option of upgrading to a VIP user. To upgrade, the application asks if the user agrees to receive promotions.
+The user will become a VIP once they agree and provide a valid email address. Then the user can
+access VIP functionalities:
+
+Please log out and log in again to access VIP functionalities.
+
+A VIP user has the following additional functionalities:
+* Ordering a meal (a burrito, one serve of fries, and a soda), with a discount of $3.
+* Collecting credits for all orders. The user can earn one credit for each dollar spent.
+* Use credits when paying for orders. The program should ask the user if he/she wants to redeem credits when checking out. If yes, ask the user to specify the number of credits to redeem. Every 100 credits can be used as one dollar. If credits are redeemed in payment, the final order price of this order should be recorded as the actual amount paid by user. In other functionalities, the final order price will be used. For example, when “Viewing all orders”, user will only see the actual price paid for that order. In “Collecting credits”, the user can collect credits for the actual paid amount.
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/3eed3f96-cbaf-49ba-9e29-802450030546)
 
 
 
