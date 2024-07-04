@@ -68,11 +68,16 @@ A VIP user has the following additional functionalities:
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/3eed3f96-cbaf-49ba-9e29-802450030546)
 
 Invalid email error
+
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/7b8ff6bb-5c58-4120-83fe-da2d1f5d650e)
 
 Agree to recieve promotion error
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/71d48b74-0f2d-48a3-bf08-864d20f4a0e2)
+
+** Make Order **
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/a8380bc0-8862-4896-9279-836ce422160a)
 
 
 
