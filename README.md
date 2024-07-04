@@ -75,9 +75,24 @@ Agree to recieve promotion error
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/71d48b74-0f2d-48a3-bf08-864d20f4a0e2)
 
-** Make Order **
+## Make Order ##
 
+### Order Menu for a Premium User ### 
+
+Includes Meal - 1 burrito, 1 serve of fries, 1 soda with a price reduction 1$ for each item
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/a8380bc0-8862-4896-9279-836ce422160a)
+
+### Order Menu for a Regular User ### 
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/eef880b2-468a-43aa-bf6c-4faac1fc302c)
+
+### Checkout Menu ###
+
+User can update quantity or remove item
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/18cf91a3-e733-4463-b992-88d65a01422f)
+
+
 
 
 
