@@ -4,6 +4,8 @@ Application for ordering multiple food items.
 
 This project was an assignment for the Advanced Programming Course(Java).
 
+I started to learn Java in February, this application was finished in June.
+
 GUI was made with SceneBuilder.
 
 I used singleton and facade design patterns.
