@@ -92,8 +92,19 @@ User can update quantity or remove item
 
 ![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/18cf91a3-e733-4463-b992-88d65a01422f)
 
+### Payment ###
 
+Payment menu performs simple vaidation to check:
+  * if the card number has 16 digits
+  * if the expiry date is a future date
+  * if cvv has 3 digits
 
+**Payment menu for Premium user**
+
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/6c580f73-73ff-4e56-829b-8b5b2f07f35a)
+
+**Payment menu for Regular user**
+![image](https://github.com/AnaRomanovaWork/BurritoKingRestaurantAnaRomanova/assets/113778877/e72416c8-c065-49f4-a0d3-ea47a2b9af4c)
 
 
 
